@@ -1,0 +1,6 @@
+open cmd
+code .
+open atlas from keyaashah03@gmail.com account connect the browser then and only then follow below
+in vs code terminal 
+yarn start
+open posrtman and run api as needed 
